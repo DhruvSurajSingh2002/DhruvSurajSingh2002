@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhruv Suraj Singh!!!
 - 👀 I’m interested in Fintech Analysis , FullStack Development and Machine Learning.
 - 🌱 I’m currently learning Backend Development, Data Science , Concepts of Machine Learning  and LLM's like Bert and GPT.
-- 💞️ I’m looking to collaborate on Data science and machine learning projects
+- 💞️ I’m looking to collaborate on fullstack projects
 - 📫 How to reach me?? Check out my linkedin.... 
 
 <!---
